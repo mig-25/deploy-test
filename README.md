@@ -6,8 +6,8 @@
 4. In your backend recreate the folder upload under extensions, then in the upload folder create the config folder, in the config folder create settings.json file with the following structure.
 5. `{`
    `"provider": "cloudinary",`
-   `"providerOptions": { "cloud_name": "mig-25",`
-   `"api_key": "979111138869784",`
+   `"providerOptions": { "cloud_name": "xxxx",`
+   `"api_key": "xxxxxx",`
    `"api_secret": "xxx" }`
    `}`
    Replace the content of cloud_name, api_key and api_secret with your own credentials from Cloudnairy
